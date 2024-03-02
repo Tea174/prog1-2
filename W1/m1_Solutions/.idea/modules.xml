@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/m1_Solutions/m1-collections/Actresses/Actresses.iml" filepath="$PROJECT_DIR$/m1_Solutions/m1-collections/Actresses/Actresses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m1_Solutions/m1-collections/Brands/Brands.iml" filepath="$PROJECT_DIR$/m1_Solutions/m1-collections/Brands/Brands.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m1_Solutions/m1-collections/ListNames/Ex2ListEvenNumbers.iml" filepath="$PROJECT_DIR$/m1_Solutions/m1-collections/ListNames/Ex2ListEvenNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m1_Solutions/m1-collections/Frequentie/Frequentie.iml" filepath="$PROJECT_DIR$/m1_Solutions/m1-collections/Frequentie/Frequentie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m1_Solutions/m1-collections/ListDrinks/ListDrinks.iml" filepath="$PROJECT_DIR$/m1_Solutions/m1-collections/ListDrinks/ListDrinks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m1_Solutions/m1-collections/ListDrinksv2/ListDrinksv2.iml" filepath="$PROJECT_DIR$/m1_Solutions/m1-collections/ListDrinksv2/ListDrinksv2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m1_Solutions/m1-collections/ListEvenNumbers/ListEvenNumbers.iml" filepath="$PROJECT_DIR$/m1_Solutions/m1-collections/ListEvenNumbers/ListEvenNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m1_Solutions/m1-collections/ListEvenNumbersV2/ListEvenNumbersV2.iml" filepath="$PROJECT_DIR$/m1_Solutions/m1-collections/ListEvenNumbersV2/ListEvenNumbersV2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m1_Solutions/m1-collections/LottoDraw/LottoDraw.iml" filepath="$PROJECT_DIR$/m1_Solutions/m1-collections/LottoDraw/LottoDraw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m1_Solutions/m1-collections/MapGirls/MapGirls.iml" filepath="$PROJECT_DIR$/m1_Solutions/m1-collections/MapGirls/MapGirls.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m1_Solutions/m1-collections/Scores/Scores.iml" filepath="$PROJECT_DIR$/m1_Solutions/m1-collections/Scores/Scores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m1_Solutions/m1-collections/SetGirls/SetGirls.iml" filepath="$PROJECT_DIR$/m1_Solutions/m1-collections/SetGirls/SetGirls.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m1_Solutions/m1-collections/SetGirlsV2/SetGirlsV2.iml" filepath="$PROJECT_DIR$/m1_Solutions/m1-collections/SetGirlsV2/SetGirlsV2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m1_Solutions/m1-extra-collections/m1-extra-collections.iml" filepath="$PROJECT_DIR$/m1_Solutions/m1-extra-collections/m1-extra-collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/m1_Solutions.iml" filepath="$PROJECT_DIR$/.idea/m1_Solutions.iml" />
+    </modules>
+  </component>
+</project>

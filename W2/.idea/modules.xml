@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ex200DaysOfTheWeek1/Ex200DaysOfTheWeek1.iml" filepath="$PROJECT_DIR$/Ex200DaysOfTheWeek1/Ex200DaysOfTheWeek1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex201DaysOfTheWeek2/Ex201DaysOfTheWeek2.iml" filepath="$PROJECT_DIR$/Ex201DaysOfTheWeek2/Ex201DaysOfTheWeek2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex202Movie/Ex202Movie.iml" filepath="$PROJECT_DIR$/Ex202Movie/Ex202Movie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex203PlayingCards/Ex203PlayingCards.iml" filepath="$PROJECT_DIR$/Ex203PlayingCards/Ex203PlayingCards.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex204InnerClassIterator/Ex204InnerClassIterator.iml" filepath="$PROJECT_DIR$/Ex204InnerClassIterator/Ex204InnerClassIterator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex205InnerClassMovieAndActors/Ex205InnerClassMovieAndActors.iml" filepath="$PROJECT_DIR$/Ex205InnerClassMovieAndActors/Ex205InnerClassMovieAndActors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaFXdemo/JavaFXdemo.iml" filepath="$PROJECT_DIR$/JavaFXdemo/JavaFXdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/W2.iml" filepath="$PROJECT_DIR$/.idea/W2.iml" />
+    </modules>
+  </component>
+</project>
